@@ -1,5 +1,7 @@
 # v2e Experiment Data README
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5113439.svg)](https://doi.org/10.5281/zenodo.5113439)
+
 
 ## General information or Introduction section
 
@@ -16,7 +18,7 @@ Institute of Neuroinformatics, University of Zurich and ETH Zurich
 
 ## Access
 
-The dataset is stored at Zenodo platform, click [here]() to access.
+The dataset is stored at Zenodo platform, click [here](https://zenodo.org/record/5113439#.YPbOoXUzbmE) to access.
 
 ## Data and file(s) overview
 
